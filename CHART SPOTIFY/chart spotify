@@ -38,43 +38,49 @@
   </style>
 </head>
 <body>
-  <h1>DAILY TOP SONGS CHART SPOTIFY - República Dominicana  24/04/2025</h1>
+  <h1>DAILY TOP SONGS CHART SPOTIFY - República Dominicana  23/04/2025</h1>
   <ul>
     <li>
-      <div class="position">#49</div>
+      <div class="position">#39</div>
       <div class="track">MONA LISA</div>
       <div class="artist">Jhope</div>
-      <div class="Stream">8,776</div>
+      <div class="Stream">9,618</div>
     </li>
     <li>
-        <div class="position">#115</div>
+        <div class="position">#74</div>
         <div class="track">WHO</div>
         <div class="artist">Jimin</div>
-        <div class="Stream">5,319</div>
+        <div class="Stream">6,838</div>
     </li>
     <li>
-        <div class="position">#119</div>
+        <div class="position">#87</div>
         <div class="track">RUNNING WILD</div>
         <div class="artist">Jin</div>
-        <div class="Stream">5,199</div>
+        <div class="Stream">6,147</div>
     </li>
     <li>
-        <div class="position">#120</div>
+        <div class="position">#100</div>
         <div class="track">SWEET DREAMS</div>
         <div class="artist">Jhope and Miguel</div>
-        <div class="Stream">5,196</div>
+        <div class="Stream">5,797</div>
     </li>
     <li>
-        <div class="position">#155</div>
+        <div class="position">#125</div>
         <div class="track">FAKE LOVE</div>
         <div class="artist">BTS</div>
-        <div class="Stream">4,460</div>
+        <div class="Stream">4,480</div>
     </li>
     <li>
         <div class="position">#148</div>
         <div class="track">WINTER AHEAD</div>
         <div class="artist">V</div>
-        <div class="Stream">4,064</div>
+        <div class="Stream">4,290</div>
+    </li>
+    <li>
+        <div class="position">#195</div>
+        <div class="track">LV BAG</div>
+        <div class="artist">Don Toliver, Speedy, jhope and pharrel</div>
+        <div class="Stream">6,147</div>
     </li>
     <!-- Puedes seguir agregando canciones aquí -->
   </ul>
